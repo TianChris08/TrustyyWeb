@@ -1,0 +1,42 @@
+{
+  "site": {
+    "name": "alex marlow",
+    "title": "Esta es mi historia,",
+    "subtitle": "contada por mí.",
+    "intro": "De dónde vengo, lo que he superado, lo que he creado y los pensamientos que no quiero perder.",
+    "theme": "abyss",
+    "footer": "Escrito por mí, para mí y para ti."
+  },
+  "sections": {
+    "story": { "name": "Mi historia", "desc": "La versión larga, en el orden en que pasó." },
+    "challenges": { "name": "Mis retos", "desc": "Lo que me costó y lo que aprendí." },
+    "projects": { "name": "Lo que he hecho", "desc": "Proyectos, grandes y pequeños." },
+    "memories": { "name": "Recuerdos", "desc": "Fotos que quiero conservar." },
+    "thoughts": { "name": "Pensamientos", "desc": "Mi propio feed: pensar en voz alta, poemas y momentos de rabia." }
+  },
+  "story": [
+    { "year": "1994", "title": "Donde empezó todo", "text": "Un párrafo sobre dónde naciste, quién te crió y cómo era tu casa." },
+    { "year": "2008", "title": "Los años que me formaron", "text": "El colegio, los amigos, tu primera obsesión y la primera vez que te sentiste distinto." },
+    { "year": "2016", "title": "Irme y empezar de cero", "text": "La mudanza, el trabajo, la soledad y la gente que lo hizo llevadero." },
+    { "year": "Ahora", "title": "Quién soy hoy", "text": "Lo que estás construyendo, lo que has aceptado y lo que aún estás resolviendo." }
+  ],
+  "challenges": [
+    { "title": "Quemarme a los 27", "happened": "Cuenta la situación con tus palabras.", "helped": "Las cosas pequeñas que te devolvieron las ganas." },
+    { "title": "Aprender a estar solo", "happened": "Cuenta la situación con tus palabras.", "helped": "Las cosas pequeñas que te devolvieron las ganas." }
+  ],
+  "projects": [
+    { "tag": "App", "title": "Ficha", "text": "Una herramienta mínima que muestra una sola tarea a la vez.", "link": "" },
+    { "tag": "Fotografía", "title": "Gràcia en carrete", "text": "Un fanzine de 36 fotos de una semana de lluvia.", "link": "" },
+    { "tag": "Escritura", "title": "Cartas que nunca envié", "text": "Textos cortos a otras personas y a versiones pasadas de mí.", "link": "" }
+  ],
+  "memories": [
+    { "image": "", "caption": "Verano de 2019. El balcón." },
+    { "image": "", "caption": "El día que me mudé." },
+    { "image": "", "caption": "La cocina de mi abuela." }
+  ],
+  "thoughts": [
+    { "type": "thought", "date": "9 oct 2026", "text": "Quizá que te conozcan pocas personas sea mejor que te noten muchas." },
+    { "type": "mad", "date": "7 oct 2026", "text": "Estoy HARTO de dar explicaciones. Hoy no lo hago." },
+    { "type": "poem", "date": "3 oct 2026", "text": "Esta noche mi cabeza hace ruido\npero la calle está en calma.\nAlgo en mí está aprendiendo\na quedarse quieto." }
+  ]
+}
